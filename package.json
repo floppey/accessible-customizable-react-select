@@ -1,0 +1,24 @@
+{
+  "name": "accessible-customizable-react-select",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/floppey/accessible-customizable-react-select.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/floppey/accessible-customizable-react-select/issues"
+  },
+  "homepage": "https://github.com/floppey/accessible-customizable-react-select#readme",
+  "peerDependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "styled-components": "^5.1.1"
+  }
+}
